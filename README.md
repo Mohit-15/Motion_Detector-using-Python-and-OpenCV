@@ -1,0 +1,2 @@
+# Motion_Detector-using-Python-and-OpenCV
+In this, we are using python and open source computer vision for detecting the object.For analysing and creating the dataFrame we use pandas library. For plotting the graph I have used "Bokeh" library. In this what we do is we capture the first frame of the video and find the difference of it with other frames when a moving object comes in and save the entry and exit time in the dataframe named Times. csv.
